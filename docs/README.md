@@ -1,5 +1,7 @@
 # OctoAcme Project Management — Quick Start
 
+<!-- Updated 2025-10-20: Expanded Core Roles section to reference extended roles for improved role clarity (Issue #4) -->
+
 ## Purpose
 Provide new teammates a concise overview of how OctoAcme runs projects, including roles, processes, and key artifacts.
 
@@ -19,6 +21,14 @@ Applies to all cross-functional projects delivering product features, services, 
 - **Developers**: implement features, collaborate on design and testability
 - **QA/Testing**: validate quality and acceptance criteria
 - **Stakeholders**: provide inputs and approvals
+
+### Extended Roles
+For comprehensive project coverage, also consider these roles (see [Roles & Personas](octoacme-roles-and-personas.md) for details):
+- **UX Designer**: designs user experiences and ensures accessibility
+- **Release Manager**: orchestrates release process and coordinates deployments
+- **DevOps Engineer**: builds CI/CD pipelines and maintains infrastructure
+- **Business Analyst**: gathers requirements and bridges business-technical gaps
+- **Support Lead**: ensures supportability and prepares support team for releases
 
 ## Team Rhythm
 - **Daily standups** (15 min): progress, blockers, dependencies

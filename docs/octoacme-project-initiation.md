@@ -1,5 +1,7 @@
 # OctoAcme — Project Initiation Guide
 
+<!-- Updated 2025-10-20: Expanded stakeholder and role references to include UX Designer, Release Manager, DevOps Engineer, Business Analyst, and Support Lead (Issue #4) -->
+
 ## Purpose
 Define the initial steps to validate and authorize work, align stakeholders, and create a lightweight plan.
 
@@ -14,7 +16,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Stakeholder list & communication plan (include relevant roles: Product Manager, Project Manager, Developers, UX Designer, DevOps Engineer, Business Analyst, Release Manager, Support Lead, and business stakeholders)
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
@@ -24,10 +26,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Problem statement:
 - Objective / Goal (SMART):
 - Success metrics:
-- Primary stakeholders:
+- Primary stakeholders (consider: Product Manager, Project Manager, Business Analyst, UX Designer, DevOps Engineer, Release Manager, Support Lead, business sponsors, end users):
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles (identify which roles from the personas are needed):
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
