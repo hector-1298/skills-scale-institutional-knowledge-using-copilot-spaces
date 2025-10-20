@@ -1,5 +1,7 @@
 # OctoAcme — Project Planning
 
+<!-- Updated 2025-10-20: Expanded role references to include UX Designer, Release Manager, DevOps Engineer, Business Analyst, and Support Lead in planning activities (Issue #4) -->
+
 ## Purpose
 Turn an approved initiative into an actionable plan and backlog for delivery.
 
@@ -9,12 +11,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team
-2. Create prioritized backlog with acceptance criteria
+1. Kickoff meeting with stakeholders and delivery team (include relevant roles: Product Manager, Project Manager, Developers, UX Designer, DevOps Engineer, Business Analyst, Release Manager, Support Lead)
+2. Create prioritized backlog with acceptance criteria (collaborate with Business Analyst for requirements clarity)
 3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
-5. Identify dependencies and integration points
-6. Create release plan and milestone map
+4. Define Definition of Done (DoD) - include input from DevOps Engineer on deployment readiness, UX Designer on design completion, and Support Lead on documentation requirements
+5. Identify dependencies and integration points (coordinate with DevOps Engineer and Release Manager)
+6. Create release plan and milestone map (align with Release Manager on release calendar)
 
 ## Backlog Item Template
 - Title:
@@ -36,8 +38,11 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held (with all relevant stakeholders and roles)
 - [ ] Backlog prioritized and estimated
-- [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
+- [ ] Release timeline and milestones agreed (coordinated with Release Manager)
+- [ ] Definition of Done documented (including DevOps, UX, and Support criteria)
 - [ ] Initial test plan / QA approach drafted
+- [ ] Infrastructure and CI/CD requirements identified (with DevOps Engineer)
+- [ ] Design requirements and UX research plan defined (with UX Designer)
+- [ ] Support readiness requirements captured (with Support Lead)

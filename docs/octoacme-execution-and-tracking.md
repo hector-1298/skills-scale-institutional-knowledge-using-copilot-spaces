@@ -1,5 +1,7 @@
 # OctoAcme — Execution & Tracking
 
+<!-- Updated 2025-10-20: Expanded quality and workflow references to include DevOps Engineer role (Issue #4) -->
+
 ## Purpose
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
@@ -13,14 +15,14 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Pull Request workflow:
   - Small PRs (<= 400 lines when possible)
   - Include issue link and acceptance criteria in PR description
-  - Run automated tests and linting in CI before requesting review
+  - Run automated tests and linting in CI before requesting review (CI/CD maintained by DevOps Engineer)
   - Require at least one approval before merging (or team-defined policy)
 
 ## Quality & Testing
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
+- Security scanning in CI (automated by DevOps Engineer)
 - Manual QA for feature acceptance when needed
 
 ## Reporting & Metrics
@@ -35,6 +37,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
-- [ ] CI configured for tests and lint
+- [ ] CI configured for tests and lint (by DevOps Engineer)
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Design reviews scheduled with UX Designer (if applicable)
+- [ ] Support readiness tracked with Support Lead (if applicable)
